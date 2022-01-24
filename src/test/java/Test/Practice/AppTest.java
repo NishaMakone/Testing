@@ -8,7 +8,7 @@ public class AppTest {
 	@org.junit.Test
 	public void testInputIsEven()
 	{
-		assertTrue(ChekOddEven.checkOddEven(22));
+		assertTrue(ChekOddEven.checkOddEven(221));
 	}
 	
 }
